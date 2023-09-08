@@ -4,7 +4,7 @@
 <a align="center" href="https://twitter.com/echobravos" target="blank"><img src="https://img.shields.io/twitter/follow/echobravos?logo=twitter&style=for-the-badge" alt="echobravos" /></a>
 </p>
 
-- ⚡ Fun fact: **boring is most fun**
+- ⚡ Fun fact: **work is boring**
 - 🌱 I’m currently learning **Rust & ML**
 - 📫 How to reach me **gonghuan.dev@gmail.com**
 - 🤝 I’m looking for help with **k8s on homelab**
