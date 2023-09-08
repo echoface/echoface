@@ -29,15 +29,14 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=echoface&margin-w=15&row=1" alt="echoface" /></a> </p>
+<p align="left"> <a href="https://github.com/echoface"><img src="https://github-profile-trophy.vercel.app/?username=echoface&margin-w=15&row=1" alt="echoface" /></a> </p>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=echoface&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="echoface's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echoface&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+<!--
 #### Top Repositories
-
 | <a href="https://github.com/echoface/be_indexer"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=echoface&repo=be_indexer&theme=buefy" /></a> | <a href="https://github.com/echoface/ltio"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=echoface&repo=ltio&theme=buefy" /></a>|
 | ------------- | ------------- |
-
-<br />
+-->
 <p align="left"> <a href="https://twitter.com/echobravos" target="blank"><img src="https://img.shields.io/twitter/follow/echobravos?logo=twitter&style=for-the-badge" alt="echobravos" /></a> </p>
