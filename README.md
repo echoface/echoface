@@ -33,9 +33,9 @@
 <p align="center"> <a href="https://github.com/echoface"><img src="https://github-profile-trophy.vercel.app/?username=echoface&margin-w=15&row=1" alt="echoface" /></a> </p>
 
 <p align="center">
-  <a> <img align="center" height=195 src="https://github-readme-stats.vercel.app/api?username=echoface&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="echoface's github stats" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a><img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echoface&layout=compact&theme=buefy&hide_border=true" /></a>
+  <a> <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=echoface&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="echoface's github stats" /></a>
+  &nbsp;&nbsp;
+  <a><img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echoface&layout=compact&theme=buefy&hide_border=true" /></a>
 </p>
 
 <!--
