@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Rust & ML**
 - 📫 How to reach me **gonghuan.dev@gmail.com**
 - 🤝 I’m looking for help with **k8s on homelab**
-- 🔭 I’m currently working on [be_indexer](https://github.com/echoface/be_indexer),[ltio](https://github.com/echoface/ltio)
+- 🔭 I’m currently working on project [be_indexer](https://github.com/echoface/be_indexer),[ltio](https://github.com/echoface/ltio)
 - 💬 Ask me about **golang、c++；online advertising； browser engine**
 - 📄 Know about my experiences: ARM->Chromium->Advertising->...
 
